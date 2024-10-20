@@ -1,7 +1,7 @@
 <div class="content">
       <h1> <span>Jogo Mario</span>
         <br>
-   <img src="./imagens/inicio.jpg">
+   <img src="../imagens/inicio.jpg">
 
 
 
@@ -17,8 +17,8 @@ Projeto desenvolvido no curso de Java Script. Senac de São Paulo : <br>
  
 # Animação
 Imagem do Mario Pulando <br><br>
- <img src="./imagens/pulando.jpg"> <br> <br>
+ <img src="../imagens/pulando.jpg"> <br> <br>
 
  Game Over 
 
- <img src="./imagens/gameover.jpg">
+ <img src="../imagens/gameover.jpg">
